@@ -1,0 +1,6 @@
+framework module C2_iOS_Core {
+  umbrella header "C2_iOS_Core.h"
+
+  export *
+  module * { export * }
+}
